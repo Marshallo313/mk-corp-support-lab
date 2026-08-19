@@ -1,0 +1,20 @@
+# Virtual machine images
+*.iso
+*.qcow2
+*.img
+*.vmdk
+*.ova
+*.ovf
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# OS / IDE files
+.DS_Store
+.idea/
+.vscode/
