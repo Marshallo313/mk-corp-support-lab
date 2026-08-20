@@ -42,6 +42,7 @@ Planned Active Directory domain:
 - SQL
 - Git / GitHub
 ````markdown
+````text
 ## Repository Structure
 
 ```text
@@ -50,20 +51,3 @@ powershell/    PowerShell scripts
 screenshots/   Lab screenshots
 sql/           SQL exercises and troubleshooting
 tickets/       Simulated IT support incidents
-
-Current Status
-
-Environment preparation in progress.
-
-+ Linux virtualization host prepared
-+ AMD-V / KVM enabled
-+ QEMU and libvirt installed
-+  Virt-Manager configured
-+ DC01 created
-+ Active Directory domain deployed
-[] CLIENT01 joined to domain
-[] DB01 deployed
-[] PostgreSQL environment created
-About
-
-This repository documents an eight-week practical enterprise support lab created to complement my university studies with hands-on infrastructure, SQL and troubleshooting experience.
