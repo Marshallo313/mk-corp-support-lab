@@ -27,22 +27,6 @@ Planned Active Directory domain:
 
 `mkcorp.test`
 
-## Technologies
-
-- KVM / QEMU
-- libvirt
-- Windows Server 2025
-- Windows 11
-- Active Directory Domain Services
-- DNS
-- Group Policy
-- PowerShell
-- Linux
-- PostgreSQL
-- SQL
-- Git / GitHub
-````markdown
-````text
 ## Repository Structure
 
 ```text
@@ -51,3 +35,25 @@ powershell/    PowerShell scripts
 screenshots/   Lab screenshots
 sql/           SQL exercises and troubleshooting
 tickets/       Simulated IT support incidents
+```
+
+## Current Status
+
+Environment preparation in progress.
+
+- [x] Linux virtualization host prepared
+- [x] AMD-V / KVM enabled
+- [x] QEMU and libvirt installed
+- [x] Virt-Manager configured
+- [x] DC01 virtual machine created
+- [x] Windows Server 2025 installed
+- [ ] Server renamed to DC01
+- [ ] Static IP configured
+- [ ] Active Directory domain deployed
+- [ ] CLIENT01 joined to domain
+- [ ] DB01 deployed
+- [ ] PostgreSQL environment created
+
+## About
+
+This repository documents an eight-week practical enterprise support lab created to complement my university studies with hands-on infrastructure, SQL and troubleshooting experience.
