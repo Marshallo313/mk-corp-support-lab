@@ -41,7 +41,7 @@ Planned Active Directory domain:
 - PostgreSQL
 - SQL
 - Git / GitHub
-
+````markdown
 ## Repository Structure
 
 ```text
