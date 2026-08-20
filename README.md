@@ -59,8 +59,8 @@ Environment preparation in progress.
 + AMD-V / KVM enabled
 + QEMU and libvirt installed
 +  Virt-Manager configured
-[] DC01 created
-[] Active Directory domain deployed
++ DC01 created
++ Active Directory domain deployed
 [] CLIENT01 joined to domain
 [] DB01 deployed
 [] PostgreSQL environment created
